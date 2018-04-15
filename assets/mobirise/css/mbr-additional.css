@@ -1398,3 +1398,23 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-qPg8AlFEZX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-qPg8AlFEZX .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-qPg8AlFEZX .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-qPg8AlFEZX .mbr-figure img {
+    width: 100% !important;
+  }
+}
