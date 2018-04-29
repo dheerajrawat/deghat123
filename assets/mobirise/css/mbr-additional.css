@@ -1489,6 +1489,55 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-qQApbdYtIb {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-qQApbdYtIb .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qQApbdYtIb .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qQApbdYtIb .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qQApbdYtIb .mbr-text {
+  color: #ffffff;
+}
+.cid-qQApbdYtIb .card {
+  padding-bottom: 1.5rem;
+}
+.cid-qQArqvFx4K {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qQArqvFx4K [class^="socicon-"]:before,
+.cid-qQArqvFx4K [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qQArqvFx4K .btn-social {
+  border-color: #149dcc;
+}
+.cid-qQArqvFx4K .btn-social:hover {
+  background: #149dcc;
+}
+.cid-qQArqvFx4K .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qQArqvFx4K .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-qQwjLTTfVP {
   padding-top: 60px;
   padding-bottom: 60px;
