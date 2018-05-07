@@ -1867,6 +1867,29 @@ body {
   text-align: center;
   color: #ffffff;
 }
+.cid-qRkU5uzTGS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qRkU5uzTGS [class^="socicon-"]:before,
+.cid-qRkU5uzTGS [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-qRkU5uzTGS .btn-social {
+  border-color: #149dcc;
+}
+.cid-qRkU5uzTGS .btn-social:hover {
+  background: #149dcc;
+}
+.cid-qRkU5uzTGS .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+@media (max-width: 767px) {
+  .cid-qRkU5uzTGS .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-qRhb4eJYCO {
   padding-top: 90px;
   padding-bottom: 90px;
